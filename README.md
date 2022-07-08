@@ -8,7 +8,7 @@
 
 To set up the PoC:
 
-1. Configure Azure Log Analytics workspace, application, secret, and proper permissions to run Log Analyticsquesries as described in 
+1. Configure Azure Log Analytics workspace, application, secret, and proper permissions to run Log Analytics queries as described in 
 https://techcommunity.microsoft.com/t5/azure-sentinel/access-azure-sentinel-log-analytics-via-api-part-1/ba-p/1248377
 
 2. Set up a subdomain under your control to point to your server (functionality will not work with an IP address); you can run server functionality on port 80 (default) or allocate a specific port
